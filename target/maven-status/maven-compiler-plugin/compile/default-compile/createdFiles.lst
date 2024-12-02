@@ -1,0 +1,7 @@
+com\bigdata\EducationMapper.class
+com\bigdata\Main.class
+com\bigdata\MaritalStatusCombiner.class
+com\bigdata\MaritalStatusReducer.class
+com\bigdata\MaritalStatusMapper.class
+com\bigdata\EducationReducer.class
+com\bigdata\NumPair.class
